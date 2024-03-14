@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liujunqi-ssun&layout=compact)
 
-
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 
 
