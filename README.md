@@ -1,8 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujunqi-ssun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liujunqi-ssun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junqi1121&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/liujunqi-ssun/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/junqi1121/count.svg)
 
 
 
